@@ -388,3 +388,8 @@
   contact: https://github.com/vercellone/devcontainer-features/issues
   repository: https://github.com/vercellone/devcontainer-features
   ociReference: ghcr.io/vercellone/devcontainer-features
+- name: Meltano Devcontainer features
+  maintainer: @aaronsteers
+  contact: https://github.com/meltano/devcontainer-features/issues
+  repository: https://github.com/meltano/devcontainer-features
+  ociReference: ghcr.io/meltano/devcontainer-features
